@@ -1,0 +1,107 @@
+Headings / Text
+{
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+}
+
+Paragraph
+{
+<p> </p>
+}
+
+Div: Section / part of the html
+{
+<div> </div>
+}
+
+Input
+{
+<input >
+}
+
+Image
+{
+<img >
+}
+
+Link
+{
+<a href="" > </a>
+}
+
+Button
+{
+<button > <button>
+}
+
+Style / CSS
+{
+<style> </style>
+}
+
+Heading: Place where I put CSS/Style Tag
+{
+<head> </head>
+}
+
+Body/All the code
+{
+<body> </body>
+}
+Script tag: where you put other coding languages like javascript
+{
+<script> </script>
+}
+
+Html tag: Has no use in html 5 and higher, Does nothing
+{
+<html> </html>
+}
+
+DOCTYPE tag: tells the browser that the code is in html
+{
+<DOCTYPE html>
+}
+
+Label tag: For put labels for form inputs
+{
+<label> </label>
+}
+
+Form: Means that the following content is in a form
+{
+<form> </form>
+}
+
+Textarea: Space for long random text/questions
+{
+<textarea> </textarea>
+}
+
+New line
+{
+<br >
+}
+
+Un-ordered list: Bullet points
+{
+<ul> </ul>
+{
+
+Following content is in a list
+{
+<li> </li>
+}
+
+Ordered list: With numbers down the side like:
+1. Siddhesh
+2. Vedant
+3. Abhijit
+4. Deepti
+{
+<ol> </ol>
+}
